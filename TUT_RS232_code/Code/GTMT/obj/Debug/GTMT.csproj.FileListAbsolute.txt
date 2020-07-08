@@ -1,0 +1,10 @@
+C:\Users\cheetah\Documents\Visual Studio 2012\Projects\Rs232\GTMT\GTMT\bin\Debug\GTMT.exe.config
+C:\Users\cheetah\Documents\Visual Studio 2012\Projects\Rs232\GTMT\GTMT\bin\Debug\GTMT.exe
+C:\Users\cheetah\Documents\Visual Studio 2012\Projects\Rs232\GTMT\GTMT\bin\Debug\GTMT.pdb
+C:\Users\cheetah\Documents\Visual Studio 2012\Projects\Rs232\GTMT\GTMT\obj\Debug\GTMT.COMPortTerminal.resources
+C:\Users\cheetah\Documents\Visual Studio 2012\Projects\Rs232\GTMT\GTMT\obj\Debug\GTMT.Properties.Resources.resources
+C:\Users\cheetah\Documents\Visual Studio 2012\Projects\Rs232\GTMT\GTMT\obj\Debug\GTMT.csproj.GenerateResource.Cache
+C:\Users\cheetah\Documents\Visual Studio 2012\Projects\Rs232\GTMT\GTMT\obj\Debug\GTMT.exe
+C:\Users\cheetah\Documents\Visual Studio 2012\Projects\Rs232\GTMT\GTMT\obj\Debug\GTMT.pdb
+C:\Users\cheetah\Documents\Visual Studio 2012\Projects\Rs232\GTMT\GTMT\obj\Debug\GTMT.Portsetting.resources
+C:\Users\cheetah\Documents\Visual Studio 2012\Projects\Rs232\GTMT\GTMT\obj\Debug\GTMT.csprojResolveAssemblyReference.cache
